@@ -43,7 +43,7 @@ future==0.18.2
 geocoder==1.38.1
 geographiclib==1.52
 geomet==0.3.0
-geopandas==0.11.0
+geopandas
 geopy==2.2.0
 geotable==0.4.2.8
 google-ai-generativelanguage==0.2.0
