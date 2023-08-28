@@ -1,4 +1,4 @@
-#!/Users/juliannkuna/Desktop/palm2-charbot-backend/venv/bin/python3.10
+#!/Users/juliannkuna/Desktop/palm2/palm2-charbot-backend/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
