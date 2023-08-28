@@ -50,7 +50,6 @@ google-ai-generativelanguage==0.2.0
 google-api-core==2.11.1
 google-auth==2.22.0
 google-auth-oauthlib==0.5.2
-google-generativeai
 googleapis-common-protos==1.60.0
 gremlinpython==3.6.0
 grpcio==1.57.0
