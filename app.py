@@ -81,9 +81,9 @@ def get_char_detail():
             "example_chats": examples
         }
 
-        # Create a dictionary with 'status' and 'result' fields
         response_data = {
-            'status': 'success',  # Or any other status you want to return
+            'status': 'success',
+
             'result': result_data
         }
     else:
